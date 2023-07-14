@@ -13,10 +13,8 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
 <!-- This is the standard feature indicating that the device is a compatible gamepad or includes
      one in the box. -->
 <permissions>
-    <feature name="android.hardware.gamepad" />
+  <feature name="android.hardware.gamepad"/>
 </permissions>
-

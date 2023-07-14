@@ -13,8 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
 <!-- Feature for sep-basic device -->
 <permissions>
-    <feature name="com.samsung.feature.samsung_experience_mobile" />
+  <feature name="com.samsung.feature.samsung_experience_mobile"/>
 </permissions>

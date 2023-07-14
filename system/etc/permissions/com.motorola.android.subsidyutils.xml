@@ -5,6 +5,5 @@
   * Motorola Mobility Confidential Restricted.
   -->
 <permissions>
-    <library name="com.motorola.android.subsidyutils"
-        file="/system/framework/com.motorola.android.subsidyutils.jar"/>
+  <library name="com.motorola.android.subsidyutils" file="/system/framework/com.motorola.android.subsidyutils.jar"/>
 </permissions>

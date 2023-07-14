@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <permissions>
-    <feature name="com.motorola.livestream" />
+  <feature name="com.motorola.livestream"/>
 </permissions>

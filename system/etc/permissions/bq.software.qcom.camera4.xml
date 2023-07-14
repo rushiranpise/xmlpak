@@ -13,8 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
 <!--  block camera nº 4 from any different device to ZANGYA_ESS or ZANGYA_PRO -->
 <permissions>
-    <feature name="bq.software.qcom.camera4" />
+  <feature name="bq.software.qcom.camera4"/>
 </permissions>

@@ -13,9 +13,8 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
 <!-- This feature identifies devices with BqOta.apk containing 
     android:sharedUserId="android.uid.system" in system partition -->
 <permissions>
-    <feature name="bq.software.bqservices.system" />
+  <feature name="bq.software.bqservices.system"/>
 </permissions>

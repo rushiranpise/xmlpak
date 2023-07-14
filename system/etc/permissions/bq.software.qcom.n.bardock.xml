@@ -13,7 +13,6 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
 <permissions>
-    <feature name="bq.software.qcom.n.bardock" />
+  <feature name="bq.software.qcom.n.bardock"/>
 </permissions>

@@ -13,10 +13,9 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
 <!-- This feature enables Hypercamera filter 
     used in Play Store. Only BQ devices 
     with full support report this feature  -->
 <permissions>
-    <feature name="bq.software.qcom.camera.full_support" />
+  <feature name="bq.software.qcom.camera.full_support"/>
 </permissions>

@@ -13,9 +13,8 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
 <!-- Normally, it's declared by HAL or something, but is's xmlpak-RE after all...
      Needed for ARCore. -->
 <permissions>
-    <feature name="android.hardware.camera.ar" />
+  <feature name="android.hardware.camera.ar"/>
 </permissions>

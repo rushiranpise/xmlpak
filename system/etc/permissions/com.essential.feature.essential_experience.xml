@@ -13,9 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
 <!-- Devices that support Essential application -->
 <permissions>
-    <feature name="com.essential.feature.ESSENTIAL_EXPERIENCE" />
+  <feature name="com.essential.feature.ESSENTIAL_EXPERIENCE"/>
 </permissions>
-

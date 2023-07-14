@@ -13,8 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
 <!-- Feature for devices with gyroscope. -->
 <permissions>
-    <feature name="com.htc.sensor.autocalibration" />
+  <feature name="com.htc.sensor.autocalibration"/>
 </permissions>

@@ -13,8 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
 <!-- Feature for S Finder -->
 <permissions>
-    <feature name="com.samsung.feature.galaxyfinder_v7" />
+  <feature name="com.samsung.feature.galaxyfinder_v7"/>
 </permissions>

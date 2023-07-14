@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <permissions>
-    <feature name="com.motorola.bettertogether"/>
+  <feature name="com.motorola.bettertogether"/>
 </permissions>

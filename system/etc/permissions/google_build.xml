@@ -13,12 +13,11 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
 <!-- These are configurations that should exist on Google's own Nexus and GPe devices. -->
 <config>
-    <feature name="com.google.android.feature.GOOGLE_BUILD" />
-    <!-- This should be added to all Nexus and GPe devices -->
-    <feature name="com.google.android.feature.GOOGLE_EXPERIENCE" />
-    <!-- This should declare the version of Exchange that ships -->
-    <feature name="com.google.android.feature.EXCHANGE_6_2" />
+  <feature name="com.google.android.feature.GOOGLE_BUILD"/>
+  <!-- This should be added to all Nexus and GPe devices -->
+  <feature name="com.google.android.feature.GOOGLE_EXPERIENCE"/>
+  <!-- This should declare the version of Exchange that ships -->
+  <feature name="com.google.android.feature.EXCHANGE_6_2"/>
 </config>

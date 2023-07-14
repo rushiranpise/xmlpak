@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <!--
  *********************************************************************
  *  ____                      _____      _                           *
@@ -14,8 +13,6 @@
   All rights, including trade secret rights, reserved.
 
 -->
-
 <permissions>
-    <library name="playstationcertified"
-            file="/system/framework/playstationcertified.jar"/>
+  <library name="playstationcertified" file="/system/framework/playstationcertified.jar"/>
 </permissions>

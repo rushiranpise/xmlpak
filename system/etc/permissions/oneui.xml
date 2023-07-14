@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <permissions>
-    <library name="oneui"
-        file="/system/framework/oneui.jar"/>
+  <library name="oneui" file="/system/framework/oneui.jar"/>
 </permissions>

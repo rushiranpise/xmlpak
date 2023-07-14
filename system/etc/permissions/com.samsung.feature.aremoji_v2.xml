@@ -13,8 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
 <!-- Feature for devices with aremoji. -->
 <permissions>
-    <feature name="com.samsung.feature.aremoji.v2"/>
+  <feature name="com.samsung.feature.aremoji.v2"/>
 </permissions>

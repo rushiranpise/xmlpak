@@ -13,9 +13,8 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
 <!-- This is the set of features required for a VR-compatible device -->
 <permissions>
-    <feature name="android.software.vr.mode" />
-    <feature name="android.hardware.vr.high_performance" />
+  <feature name="android.software.vr.mode"/>
+  <feature name="android.hardware.vr.high_performance"/>
 </permissions>
