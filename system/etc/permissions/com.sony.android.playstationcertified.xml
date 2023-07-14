@@ -17,5 +17,5 @@
 
 <permissions>
     <library name="playstationcertified"
-            file="/system/framework/playstationcertified.jar"/>
+            />
 </permissions>
