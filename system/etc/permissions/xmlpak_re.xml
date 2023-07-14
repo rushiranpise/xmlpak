@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<config>
+<permissions>
     <!-- Amazon -->
     <feature name="amazon.alexa.modeswitch"/>
     <feature name="amazon.dolby_dax"/>
@@ -1369,4 +1369,4 @@
     <feature name="sura.tool.feature"/>
     <feature name="system.show_ecosystem_contents"/>
     <feature name="system.show_ecosystem_switch"/>
-</config>
+</permissions>
