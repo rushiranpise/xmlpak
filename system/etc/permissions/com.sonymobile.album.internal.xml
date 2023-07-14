@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <permissions>
-  <library name="com.sonymobile.album.internal" file="/system/framework/com.sonymobile.album.internal.jar"/>
-  <library name="com.sonymobile.album.internal_1" file="/system/framework/com.sonymobile.album.internal.jar"/>
+  <library name="com.sonymobile.album.internal" file="/system/framework/xmlpak_re.jar"/>
+  <library name="com.sonymobile.album.internal_1" file="/system/framework/xmlpak_re.jar"/>
 </permissions>

@@ -4,5 +4,5 @@
                         All Rights Reserved.
 -->
 <permissions>
-  <library name="com.playstation.playstationcertified" file="/system/framework/com.playstation.playstationcertified.jar"/>
+  <library name="com.playstation.playstationcertified" file="/system/framework/xmlpak_re.jar"/>
 </permissions>

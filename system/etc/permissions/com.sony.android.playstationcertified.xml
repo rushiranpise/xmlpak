@@ -14,5 +14,5 @@
 
 -->
 <permissions>
-  <library name="playstationcertified" file="/system/framework/playstationcertified.jar"/>
+  <library name="playstationcertified" file="/system/framework/xmlpak_re.jar"/>
 </permissions>

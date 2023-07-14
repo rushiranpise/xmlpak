@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <permissions>
-  <library name="com.nvidia.diagtools.exposed" file="/vendor/framework/com.nvidia.diagtools.exposed.jar"/>
+  <library name="com.nvidia.diagtools.exposed" file="/system/framework/xmlpak_re.jar"/>
 </permissions>
