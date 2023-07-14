@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<permissions>
-  <library name="com.sonymobile.imageprocessor.superresolution.api" file="/system/framework/xmlpak_re.jar"/>
-  <library name="com.sonymobile.imageprocessor.jpegencoder.api" file="/system/framework/xmlpak_re.jar"/>
-  <library name="com.sonymobile.imageprocessor.jpegdecoder.api" file="/system/framework/xmlpak_re.jar"/>
-</permissions>
