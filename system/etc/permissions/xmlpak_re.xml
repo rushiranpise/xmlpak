@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <permissions>
+    <!-- Acer -->
+    <library name="com.acer.android.os" file="/system/framework/xmlpak_re.jar"/>
     <!-- Amazon -->
     <feature name="amazon.alexa.modeswitch"/>
     <feature name="amazon.dolby_dax"/>
@@ -11,7 +13,6 @@
     <feature name="amazon.speech.wakeword"/>
     <feature name="com.amazon.alexa.multimodal.lenovo.target"/>
     <feature name="com.amazon.feature.PRELOAD"/>
-
     <!-- Asus -->
     <feature name="asus.software.A2V"/>
     <feature name="asus.software.LockScreen.cmweather"/>
@@ -202,6 +203,8 @@
     <feature name="asus.software.zenwatch"/>
     <feature name="asus.vibration.lib"/>
     <!-- BQ -->
+    <library name="com.blackberry.only" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.blackberry.security" file="/system/framework/xmlpak_re.jar"/>
     <feature name="bq.software.bqservices.system"/>
     <feature name="bq.software.qcom.camera.full_support"/>
     <feature name="bq.software.qcom.camera4"/>
@@ -294,6 +297,7 @@
     <!-- Dolby -->
     <feature name="com.dolby.dax2appUI"/>
     <!-- Essential -->
+    <library name="com.essential.score.lib" file="/system/framework/xmlpak_re.jar"/>
     <feature name="com.essential.feature.ESSENTIAL_EXPERIENCE"/>
     <feature name="com.evenwell.DataCollect"/>
     <feature name="com.evenwell.roundapp"/>
@@ -302,6 +306,7 @@
     <feature name="com.fihtdc.hardware.sensor.hall"/>
     <feature name="com.fihtdc.inlifeui.settings.style.android"/>
     <!-- Google -->
+    <library name="com.google.android.dialer.support" file="/system/framework/xmlpak_re.jar"/>
     <feature name="android.hardware.camera.ar"/>
     <feature name="android.hardware.gamepad"/>
     <feature name="android.hardware.vr.high_performance"/>
@@ -710,6 +715,13 @@
     <feature name="com.microsoft.surface.android.feature.SURFACE_2023_EXPERIENCE"/>
     <feature name="com.microsoft.surface.android.feature.SURFACE_EXPERIENCE"/>
     <!-- Motorola -->
+    <library name="com.motorola.android.settings.shared" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.motorola.android.subsidyutils" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.motorola.frameworks.core.addon" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.motorola.gallery" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.motorola.imager.evert" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.motorola.motosignature" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.motorola.timeweatherwidget.library" file="/system/framework/xmlpak_re.jar"/>
     <feature name="com.motorola.actions"/>
     <feature name="com.motorola.actions.2017"/>
     <feature name="com.motorola.aiservices"/>
@@ -1135,6 +1147,8 @@
     <!-- Nothing -->
     <feature name="nt.face.facerecognition"/>
     <!-- Nvidia -->
+    <library name="com.nvidia.diagtools.exposed" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.nvidia.graphics" file="/system/framework/xmlpak_re.jar"/>
     <feature name="com.nvidia.feature.app.plex.mediaserver"/>
     <feature name="com.nvidia.feature.app.plex.smbserver"/>
     <feature name="com.nvidia.feature.app.vudu"/>
@@ -1199,6 +1213,8 @@
     <feature name="com.razerzone.razerservices"/>
     <feature name="com.razerzone.themes"/>
     <!-- Samsung -->
+    <library name="com.samsung.device" file="/system/framework/xmlpak_re.jar"/>
+    <library name="oneui" file="/system/framework/xmlpak_re.jar"/>
     <feature name="com.samsung.android.api.version.2402"/>
     <feature name="com.samsung.android.api.version.2403"/>
     <feature name="com.samsung.android.api.version.2501"/>
@@ -1281,6 +1297,32 @@
     <feature name="com.sec.software.status_bar.quick_panel.quick_settings"/>
     <feature name="com.sec.software.statusbar.minimode_tray"/>
     <!-- Sony -->
+    <library name="com.playstation.playstationcertified" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.playstation.remoteplayident" file="/system/framework/xmlpak_re.jar"/>
+    <library name="playstationcertified" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.sony.device" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.sonyericsson.android.SwIqiBmp" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.sonyericsson.colorextraction" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.sonyericsson.system" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.sonyericsson.uxp" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.sonyericsson.uxpres" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.sonymobile.album.internal" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.sonymobile.album.internal_1" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.sonymobile.album_1" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.sonymobile.home.resourceprovider.api" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.sonymobile.imageenhancer.api_1" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.sonymobile.imageprocessor.superresolution.api" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.sonymobile.imageprocessor.jpegencoder.api" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.sonymobile.imageprocessor.jpegdecoder.api" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.sonymobile.mediacontent_1" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.sonymobile.mediacontent_2" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.sonymobile.mediacontent_3" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.sonymobile.mediacontent_4" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.sonymobile.photoanalyzer.api" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.sonymobile.photoanalyzer.api_3" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.sonymobile.photoanalyzer.api_4" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.sonymobile.photoanalyzer.api_5" file="/system/framework/xmlpak_re.jar"/>
+    <library name="com.sonymobile.photoanalyzer.api_6" file="/system/framework/xmlpak_re.jar"/>
     <feature name="com.sony.device"/>
     <feature name="com.sony.devices"/>
     <feature name="com.sony.nfx.dspaudioeffect"/>
