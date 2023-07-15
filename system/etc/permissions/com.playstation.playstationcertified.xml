@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--
-      Copyright (C) 2011 Sony Computer Entertainment Inc.
-                        All Rights Reserved.
--->
-<permissions>
-    <library name="com.playstation.playstationcertified" file="/system/framework/com.playstation.playstationcertified.jar"/>
-</permissions>

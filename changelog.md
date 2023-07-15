@@ -1,3 +1,7 @@
+**5.5
+- Fixed module not working for A13
+- Unified Xmls
+
 **5.0
 - Fixed Google Spoof
 - Updated Samsung, Sony
