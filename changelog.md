@@ -1,14 +1,14 @@
-**6.5
+**6.5**
 - Update Google
 
-**6.0
+**6.0**
 - Fixed Google Dailer Call Rec
 
-**5.5
+**5.5**
 - Fixed module not working for A13
 - Unified Xmls
 
-**5.0
+**5.0**
 - Fixed Google Spoof
 - Updated Samsung, Sony
 - Updated Module Installer
