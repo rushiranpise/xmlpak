@@ -1,3 +1,6 @@
+**6.5
+- Update Google
+
 **6.0
 - Fixed Google Dailer Call Rec
 
