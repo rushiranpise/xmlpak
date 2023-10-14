@@ -1,6 +1,6 @@
 {
-    "version": "6.5",
-    "versionCode": 65,
-    "zipUrl": "https://github.com/rushiranpise/xmlpak-RE/releases/download/v6.5/xmlpak-re_module_v6.5.zip",
+    "version": "7.0",
+    "versionCode": 70,
+    "zipUrl": "https://github.com/rushiranpise/xmlpak-RE/releases/download/v7.0/xmlpak-re_module_v7.0.zip",
     "changelog": "https://raw.githubusercontent.com/rushiranpise/xmlpak-RE/RE/changelog.md"
 }
