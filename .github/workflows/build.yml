@@ -28,7 +28,7 @@ jobs:
         tag_name: ${{ steps.version.outputs.version }}
         release_name: xmlpak-RE ${{ steps.version.outputs.version }}
         draft: false
-        prerelease: true
+        prerelease: false
 
     - name: Upload Release Asset
       id: upload_release_asset
