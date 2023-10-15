@@ -1,5 +1,9 @@
+**7.5**
+- Update Nothing 
+
+
 **7.0**
-- - Add more features based on @reiryuki 's Device Features Enabler Magisk Module 
+- Add more features based on @reiryuki 's Device Features Enabler Magisk Module 
 
 **6.5**
 - Update Google
