@@ -1,3 +1,7 @@
+**8.0**
+- Fixed issue with some apps
+- Add multi window,pin app
+
 **7.5**
 - Update Nothing 
 
