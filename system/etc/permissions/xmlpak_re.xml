@@ -335,6 +335,7 @@
     <!-- <feature name="android.software.app_enumeration"/> -->
     <feature name="android.software.app_widgets"/>
     <feature name="android.software.autofill"/>
+    <feature name="android.software.app_sharing"/>
     <feature name="android.software.backup"/>
     <!-- <feature name="android.software.cant_save_state"/> -->
     <feature name="android.software.companion_device_setup"/>
@@ -344,6 +345,7 @@
     <!-- <feature name="android.software.device_admin"/> -->
     <feature name="android.software.dream_overlay"/>
     <feature name="android.software.expanded_picture_in_picture"/>
+    <feature name="android.software.freeform_windows"/>
     <feature name="android.software.freeform_window_management"/>
     <feature name="android.software.game_service"/>
     <feature name="android.software.home_screen"/>
