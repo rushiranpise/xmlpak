@@ -1,3 +1,7 @@
+**8.5**
+- Fix Samsung apps crash
+- Fix conflicts with other google spoof modules
+
 **8.0**
 - Fixed issue with some apps
 - Add multi window,pin app
