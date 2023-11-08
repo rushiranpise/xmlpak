@@ -676,7 +676,7 @@
     <feature name="com.htc.software.HTC"/>
     <feature name="com.htc.software.HarmonyDTWL"/>
     <feature name="com.htc.software.HarmonyDUGL"/>
-    <feature name="com.htc.software.HtcSense8.5"/>
+    <feature name="com.htc.software.HtcSense8.0"/>
     <feature name="com.htc.software.IHSense"/>
     <feature name="com.htc.software.IMEDTWL"/>
     <feature name="com.htc.software.IMEDUGL"/>
@@ -753,7 +753,7 @@
     <feature name="com.htc.software.Sense5.5"/>
     <feature name="com.htc.software.Sense6.0"/>
     <feature name="com.htc.software.Sense7.0"/>
-    <feature name="com.htc.software.Sense8.5"/>
+    <feature name="com.htc.software.Sense8.0"/>
     <feature name="com.htc.software.Sense8.3"/>
     <feature name="com.htc.software.Sprint"/>
     <feature name="com.htc.software.T6DUG"/>
@@ -1149,7 +1149,7 @@
     <feature name="com.motorola.software.motofpstouch"/>
     <feature name="com.motorola.software.motointelligence"/>
     <feature name="com.motorola.software.motosound"/>
-    <feature name="com.motorola.software.motosound.8.5"/>
+    <feature name="com.motorola.software.motosound.8.0"/>
     <feature name="com.motorola.software.mya"/>
     <feature name="com.motorola.software.mya.callinmeeting"/>
     <feature name="com.motorola.software.notification"/>
