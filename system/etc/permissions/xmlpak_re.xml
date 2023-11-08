@@ -378,13 +378,14 @@
     <feature name="com.google.android.feature.D2D_CABLE_MIGRATION_FEATURE"/>
     <feature name="com.google.android.feature.DREAMLINER"/>
     <feature name="com.google.android.feature.EXCHANGE_6_2"/>
+    <feature name="com.google.android.feature.GMS_GAME_SERVICE" />
     <feature name="com.google.android.feature.GOOGLE_BUILD"/>
     <feature name="com.google.android.feature.GOOGLE_EXPERIENCE"/>
     <feature name="com.google.android.feature.GOOGLE_FI_BUNDLED"/>
     <feature name="com.google.android.feature.LILY_EXPERIENCE"/>
     <feature name="com.google.android.feature.NEXT_GENERATION_ASSISTANT"/>
     <feature name="com.google.android.feature.PERSONAL_SAFETY" />
-    <feature name="com.google.android.feature.PIXEL_2017_EXPERIENCE"/>
+<!--     <feature name="com.google.android.feature.PIXEL_2017_EXPERIENCE"/>
     <feature name="com.google.android.feature.PIXEL_2018_EXPERIENCE"/>
     <feature name="com.google.android.feature.PIXEL_2019_EXPERIENCE"/>
     <feature name="com.google.android.feature.PIXEL_2019_MIDYEAR_EXPERIENCE"/>
@@ -397,7 +398,7 @@
     <feature name="com.google.android.feature.PIXEL_2023_EXPERIENCE"/>
     <feature name="com.google.android.feature.PIXEL_2023_MIDYEAR_EXPERIENCE" />
     <feature name="com.google.android.feature.PIXEL_2024_EXPERIENCE"/>
-    <feature name="com.google.android.feature.PIXEL_2024_MIDYEAR_EXPERIENCE"/>
+    <feature name="com.google.android.feature.PIXEL_2024_MIDYEAR_EXPERIENCE"/> -->
     <feature name="com.google.android.feature.PIXEL_EXPERIENCE"/>
     <feature name="com.google.android.feature.QUICK_TAP"/>
     <feature name="com.google.android.feature.TURBO_PRELOAD"/>
@@ -409,7 +410,7 @@
     <feature name="com.google.hardware.camera.easel_2018"/>
     <feature name="com.google.lens.feature.CAMERA_INTEGRATION"/>
     <feature name="com.google.lens.feature.IMAGE_INTEGRATION"/>
-    <library name="com.google.android.dialer.support" file="/system/framework/com.google.android.dialer.support.jar"/>
+<!--     <library name="com.google.android.dialer.support" file="/system/framework/com.google.android.dialer.support.jar"/> -->
     
     <privapp-permissions package="com.android.hotwordenrollment.okgoogle">
         <permission name="android.permission.KEYPHRASE_ENROLLMENT_APPLICATION"/>
@@ -1468,7 +1469,7 @@
     <feature name="samsung.software.smartview.phone"/>
     <feature name="samsung.software.smartview.trustzone"/>
     <feature name="samsung.software.video.hd"/>
-    <library name="com.samsung.android.uwb_extras" file="/system/framework/xmlpak_re.jar"/>
+<!--     <library name="com.samsung.android.uwb_extras" file="/system/framework/xmlpak_re.jar"/>
     <library name="com.samsung.bbc" file="/system/framework/xmlpak_re.jar"/>
     <library name="com.samsung.device" file="/system/framework/xmlpak_re.jar"/>
     <library name="samsung.uwb" file="/system/framework/xmlpak_re.jar"/>
@@ -1478,7 +1479,7 @@
     <library name="knoxsdk" file="/system/framework/xmlpak_re.jar"/>
     <library name="mcfsdk" file="/system/framework/xmlpak_re.jar"/>
     <library name="manager_wrapper_compat" file="/system/framework/xmlpak_re.jar" />
-    <library name="oneui" file="/system/framework/xmlpak_re.jar"/>
+    <library name="oneui" file="/system/framework/xmlpak_re.jar"/> -->
     <!-- Sony -->
     <feature name="com.sony.device"/>
     <feature name="com.sony.devices"/>
