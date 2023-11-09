@@ -416,6 +416,7 @@
 	<permission name="android.permission.KEYPHRASE_ENROLLMENT_APPLICATION"/>
 	<permission name="android.permission.INTERACT_ACROSS_USERS"/>
 	</privapp-permissions>
+	</privapp-permissions>
 	<privapp-permissions package="com.android.hotwordenrollment.xgoogle">
 	<privapp-permissions package="com.google.android.googlequicksearchbox">
 	<permission name="android.permission.BIND_APPWIDGET"/>
@@ -446,6 +447,7 @@
 	<permission name="android.permission.WRITE_APN_SETTINGS"/>
 	<permission name="android.permission.WRITE_DREAM_STATE"/>
 	<permission name="android.permission.SUBSTITUTE_SHARE_TARGET_APP_NAME_AND_ICON"/>
+	</privapp-permissions>
 	<privapp-permissions package="com.google.android.apps.wellbeing">
 	<permission name="android.permission.ACCESS_INSTANT_APPS"/>
 	<permission name="android.permission.CONTROL_DISPLAY_COLOR_TRANSFORMS"/>
@@ -462,6 +464,7 @@
 	<permission name="android.permission.SUBSTITUTE_NOTIFICATION_APP_NAME"/>
 	<permission name="android.permission.SUSPEND_APPS"/>
 	<permission name="android.permission.WRITE_SECURE_SETTINGS"/>
+	</privapp-permissions>
 	<!-- Nokia -->
 	<feature name="com.hmdglobal.android.feature.NOKIA_CAMERA_EXPERIENCE"/>
 	<feature name="com.hmdglobal.android.feature.NOKIA_CAMERA_V3"/>
