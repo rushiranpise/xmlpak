@@ -308,58 +308,26 @@
     <!-- Google -->
     <feature name="android.hardware.camera.ar" />
     <feature name="android.hardware.audio.pro" />
-    <feature name="android.hardware.broadcastradio" />
-    <feature name="android.hardware.camera.ar" />
-    <feature name="android.hardware.camera.concurrent" />
-    <feature name="android.hardware.camera.external" />
-    <feature name="android.hardware.context_hub" />
-    <feature name="android.hardware.ethernet" />
-    <feature name="android.hardware.faketouch" />
-    <feature name="android.hardware.faketouch.multitouch.distinct" />
-    <feature name="android.hardware.faketouch.multitouch.jazzhand" />
+    <feature name="android.software.communal_mode" />
     <feature name="android.hardware.gamepad" />
-    <feature name="android.hardware.sensor.accelerometer_limited_axes" />
-    <feature name="android.hardware.sensor.accelerometer_limited_axes_uncalibrated" />
-    <feature name="android.hardware.sensor.assist" />
-    <feature name="android.hardware.sensor.dynamic.head_tracker" />
-    <feature name="android.hardware.sensor.gyroscope_limited_axes" />
-    <feature name="android.hardware.sensor.gyroscope_limited_axes_uncalibrated" />
-    <feature name="android.hardware.sensor.heading" />
-    <feature name="android.hardware.sensor.hifi_sensors" />
-    <feature name="android.hardware.vr.headtracking" />
-    <feature name="android.hardware.vr.high_performance" />
-    <feature name="android.hardware.wifi.aware" />
-    <feature name="android.hardware.wifi.rtt" />
     <feature name="android.software.activities_on_secondary_displays" />
+    <feature name="android.software.app_compat_overrides" />
     <feature name="android.software.app_widgets" />
     <feature name="android.software.autofill" />
     <feature name="android.software.app_sharing" />
-    <feature name="android.software.backup" />
-    <feature name="android.software.companion_device_setup" />
-    <feature name="android.software.connectionservice" />
-    <feature name="android.software.controls" />
-    <feature name="android.software.credentials" />
     <feature name="android.software.dream_overlay" />
     <feature name="android.software.expanded_picture_in_picture" />
     <feature name="android.software.freeform_windows" />
     <feature name="android.software.freeform_window_management" />
     <feature name="android.software.game_service" />
-    <feature name="android.software.home_screen" />
     <feature name="android.software.incremental_delivery" />
-    <feature name="android.software.input_methods" />
     <feature name="android.software.live_tv" />
     <feature name="android.software.live_wallpaper" />
     <feature name="android.software.multi_window" />
     <feature name="android.software.picture_in_picture" />
-    <feature name="android.software.print" />
     <feature name="android.software.screen_pinning" />
-    <feature name="android.software.secure_lock_screen" />
-    <feature name="android.software.securely_removes_users" />
-    <feature name="android.software.telecom" />
     <feature name="android.software.voice_recognizers" />
     <feature name="android.software.vr.mode" />
-    <feature name="android.software.wallet_location_based_suggestions" />
-    <feature name="android.software.webview" />
     <feature name="android.software.window_magnification" />
     <feature name="com.google.photos.trust_debug_certs" />
     <feature name="com.google.ambient.streaming" />
@@ -391,71 +359,6 @@
     <feature name="com.google.lens.feature.CAMERA_INTEGRATION" />
     <feature name="com.google.lens.feature.IMAGE_INTEGRATION" />
     
-    <privapp-permissions package="com.android.hotwordenrollment.okgoogle">
-        <permission name="android.permission.KEYPHRASE_ENROLLMENT_APPLICATION" />
-        <permission name="android.permission.INTERACT_ACROSS_USERS" />
-    </privapp-permissions>
-
-    <privapp-permissions package="com.android.hotwordenrollment.xgoogle">
-        <permission name="android.permission.KEYPHRASE_ENROLLMENT_APPLICATION" />
-        <permission name="android.permission.INTERACT_ACROSS_USERS" />
-    </privapp-permissions>
-
-    <privapp-permissions package="com.google.android.googlequicksearchbox">
-        <permission name="android.permission.BIND_APPWIDGET" />
-        <permission name="android.permission.CALL_PRIVILEGED" />
-        <permission name="android.permission.CAPTURE_AUDIO_HOTWORD" />
-        <permission name="android.permission.CONTROL_INCALL_EXPERIENCE" />
-        <permission name="android.permission.ENTER_CAR_MODE_PRIORITIZED" />
-        <permission name="android.permission.GLOBAL_SEARCH" />
-        <permission name="android.permission.INTERACT_ACROSS_PROFILES" />
-        <deny-permission name="android.permission.INTERACT_ACROSS_USERS" />
-        <permission name="android.permission.MANAGE_VOICE_KEYPHRASES" />
-        <permission name="android.permission.MANAGE_SOUND_TRIGGER" />
-        <permission name="android.permission.MEDIA_CONTENT_CONTROL" />
-        <permission name="android.permission.MODIFY_AUDIO_ROUTING" />
-        <permission name="android.permission.PACKAGE_USAGE_STATS" />
-        <permission name="android.permission.READ_DREAM_STATE" />
-        <permission name="android.permission.REAL_GET_TASKS" />
-        <permission name="android.permission.RECORD_AUDIO" />
-        <permission name="android.permission.SET_MEDIA_KEY_LISTENER" />
-        <permission name="android.permission.SET_VOLUME_KEY_LONG_PRESS_LISTENER" />
-        <permission name="android.permission.MANAGE_USB" />
-        <permission name="android.permission.SHOW_KEYGUARD_MESSAGE" />
-        <permission name="android.permission.SOUND_TRIGGER_RUN_IN_BATTERY_SAVER" />
-        <permission name="android.permission.START_ACTIVITIES_FROM_BACKGROUND" />
-        <permission name="android.permission.STATUS_BAR" />
-        <permission name="android.permission.STOP_APP_SWITCHES" />
-        <permission name="com.google.android.permission.SET_WATCH_FACE_PRIVILEGED" />
-        <permission name="android.permission.WRITE_APN_SETTINGS" />
-        <permission name="android.permission.WRITE_DREAM_STATE" />
-        <permission name="android.permission.SUBSTITUTE_SHARE_TARGET_APP_NAME_AND_ICON" />
-    </privapp-permissions>
-
-    <privapp-permissions package="com.google.android.apps.wellbeing">
-        <permission name="android.permission.ACCESS_INSTANT_APPS" />
-        <permission name="android.permission.CONTROL_DISPLAY_COLOR_TRANSFORMS" />
-        <permission name="android.permission.CONTROL_DISPLAY_SATURATION" />
-        <permission name="android.permission.INTERACT_ACROSS_PROFILES" />
-        <permission name="android.permission.LAUNCH_MULTI_PANE_SETTINGS_DEEP_LINK" />
-        <permission name="android.permission.MODIFY_DAY_NIGHT_MODE" />
-        <permission name="android.permission.MODIFY_PHONE_STATE" />
-        <permission name="android.permission.MODIFY_QUIET_MODE" />
-        <permission name="android.permission.OBSERVE_APP_USAGE" />
-        <permission name="android.permission.PACKAGE_USAGE_STATS" />
-        <permission name="android.permission.READ_DREAM_STATE" />
-        <permission name="android.permission.READ_WALLPAPER_INTERNAL" />
-        <permission name="android.permission.REAL_GET_TASKS" />
-        <permission name="android.permission.SET_WALLPAPER_COMPONENT" />
-        <permission name="android.permission.SET_WALLPAPER_DIM_AMOUNT" />
-        <permission name="android.permission.START_ACTIVITIES_FROM_BACKGROUND" />
-        <permission name="android.permission.START_TASKS_FROM_RECENTS" />
-        <permission name="android.permission.SUBSTITUTE_NOTIFICATION_APP_NAME" />
-        <permission name="android.permission.SUSPEND_APPS" />
-        <permission name="android.permission.WRITE_DREAM_STATE" />
-        <permission name="android.permission.WRITE_SECURE_SETTINGS" />
-    </privapp-permissions>
-
     <!-- Nokia -->
     <feature name="com.hmdglobal.android.feature.NOKIA_CAMERA_EXPERIENCE" />
     <feature name="com.hmdglobal.android.feature.NOKIA_CAMERA_V3" />
@@ -1308,7 +1211,6 @@
     <feature name="com.oplus.assistantscreen.google_play_exp" />
     <feature name="com.oplus.software.brickmode_oneplus_export" />
     <feature name="com.oplus.software.children_space_google_play_exp" />
-    <feature name="com.oplus.software.children_space_google_play_exp" />
     <feature name="com.oplus.software.overseas.afteroos113" />
     <feature name="com.oplus.software.scene_mode_google_play_13.1" />
     <feature name="com.oplus.software.screenrecorder_google_play" />
@@ -1333,8 +1235,6 @@
     <feature name="oplus.secrecy.support" />
     <library name="oneplus_framework_wrapper" file="/system/framework/xmlpak_re.jar" />
     <library name="oplus-subsys-tool" file="/system/framework/xmlpak_re.jar" />
-    <library name="oplus-subsys-tool" file="/system/framework/xmlpak_re.jar" />
-    <library name="oplus-subsystem-service" file="/system/framework/xmlpak_re.jar" />
     <library name="oplus-subsystem-service" file="/system/framework/xmlpak_re.jar" />
     <library name="vendor.oneplus.engnative.engineer-V1.0" file="/system/framework/xmlpak_re.jar" />
     <!-- Razor -->
@@ -1394,15 +1294,10 @@
     <feature name="com.sec.feature.call_vt_support" />
     <feature name="com.sec.feature.cocktailbar" />
     <feature name="com.sec.feature.cocktailpanel" />
-    <feature name="com.sec.feature.cover" />
-    <feature name="com.sec.feature.cover.clearcameraviewcover" />
-    <feature name="com.sec.feature.cover.flip" />
-    <feature name="com.sec.feature.cover.sview" />
     <feature name="com.sec.feature.edge_v03" />
     <feature name="com.sec.feature.findo" />
     <feature name="com.sec.feature.flashbar" />
     <feature name="com.sec.feature.floating_side_softkey" />
-    <feature name="com.sec.feature.gearmanager" />
     <feature name="com.sec.feature.hovering_ui" />
     <feature name="com.sec.feature.irda_service" />
     <feature name="com.sec.feature.lotus" />
@@ -1411,11 +1306,9 @@
     <feature name="com.sec.feature.minimode" />
     <feature name="com.sec.feature.minimode_tray" />
     <feature name="com.sec.feature.motionrecognition_service" />
-    <feature name="com.sec.feature.nsflp" version="601" />
     <feature name="com.sec.feature.people_edge_notification" />
     <feature name="com.sec.feature.pocketmode" />
     <feature name="com.sec.feature.saccessorymanager" />
-    <feature name="com.sec.feature.sensorhub" version="29" />
     <feature name="com.sec.feature.samsunglinkplatform" />
     <feature name="com.sec.feature.sidetouch" />
     <feature name="com.sec.feature.slocation" />
