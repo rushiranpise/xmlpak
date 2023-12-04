@@ -1,7 +1,7 @@
 id=xmlpak-RE
 name=xmlpak-RE – a road to vendor apps
-version=v8.5
-versionCode=85
+version=v9.0
+versionCode=90
 author=Rushi Ranpise ,RKBDI, Tadi (j1505243 at xda)
 description=This module enables you to download and install vendor apps from Google Play. Compatibility is not guaranteed.
 updateJson=https://raw.githubusercontent.com/rushiranpise/xmlpak-RE/RE/update.json

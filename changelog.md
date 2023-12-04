@@ -1,4 +1,4 @@
-**8.5**
+**9.0**
 - Fix Samsung apps crash
 - Fix conflicts with other google spoof modules
 
